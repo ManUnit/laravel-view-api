@@ -1,7 +1,7 @@
 {
     "name": "tbp/viewapi",
     "description": "Support laravel api token ",
-    "keywords": ["template", "composer", "package"],
+    "keywords": [ "composer", "package"],
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
             "email": "sciantman@gmail.com"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">=7.1"
     },
