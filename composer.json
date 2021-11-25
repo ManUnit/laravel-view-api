@@ -1,0 +1,21 @@
+{
+    "name": "tbp/viewapi",
+    "description": "Support laravel api token ",
+    "keywords": ["template", "composer", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SciAntman",
+            "email": "sciantman@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tbp\\Viewapi\\": "src/"
+        }
+    }
+}
