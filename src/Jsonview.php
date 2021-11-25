@@ -10,7 +10,7 @@ namespace Tbp\Viewapi ;
 *
 *  @author yourname
 */
-class Viewapi{
+class Jsonview{
 
    /**  @var string $m_SampleProperty define here what this variable is for, do this for every instance variable */
    private $m_SampleProperty = '';
