@@ -1,6 +1,6 @@
 {
     "name": "tbp/viewapi",
-    "description": "Support laravel api token  view into json ",
+    "description": "Support laravel api token  view into json also apiview() to autoload use for global function ",
     "keywords": [ "composer", "package"],
     "license": "MIT",
     "authors": [
