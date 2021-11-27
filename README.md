@@ -30,7 +30,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-oBDjsGOOnyhlA5UdJdsqQzoij+eSWL6RSaWwVH1rDeFBEF4uXgY2qvYkGz7GGEXL43PMXoO+HJk3pOOTnW7Snw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-a010e3b0.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-pEuiC5g/bPxJ6DWhOK4vgGNJ82p1B9O9OrUM4c8qCrzkZqAsDILOk8S3wr7ToHsGAa0UOyM7Y4dscERce7tARQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-a44ba20b.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-uCbAa+CZAtNIcpDQ3DKcsQiDupkXw4KTtOalplGtYEs68gZZcoIPNQndjuoVaPyNBixvJLw7sE5301h93VJFYQ==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-b826c06b.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-hPr2ZZ0o8YCvq7JWY6WuNZoDp96QH4pNXl80Sj7KxkNS2aMyy+lDcxr/gxG86LThDOhDmh5IGzMGeyO41cmekQ==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-84faf665.js"></script>
   
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ODZJzCJpaOfusrIka5QVZQcPiO9LBGyrrMYjhhJWSLuCN5WbZ5xiEiiOPOKVu71dqygyRdB2TY7AKPA1J5hqdg==" type="application/javascript" data-module-id="./chunk-unveil.js" data-src="https://github.githubassets.com/assets/chunk-unveil-383649cc.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-emPgUbSwW9ezLCgRnTE7n4fbbfc/MqEEDHmnkmG61dTyjWKHTYKN4wN3OPS7SY0fwmSJ8mB5+gng2nZw4/HsUg==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-7a63e051.js"></script>
@@ -104,8 +104,8 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e3317df21e05e1ec16bcea0fcb8c0955919f00b059ee7895e2beb9ed1406e0c6/ManUnit/laravel-view-api" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="laravel-view-api/README.md at main · ManUnit/laravel-view-api" /><meta name="twitter:description" content="Contribute to ManUnit/laravel-view-api development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/e3317df21e05e1ec16bcea0fcb8c0955919f00b059ee7895e2beb9ed1406e0c6/ManUnit/laravel-view-api" /><meta property="og:image:alt" content="Contribute to ManUnit/laravel-view-api development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="laravel-view-api/README.md at main · ManUnit/laravel-view-api" /><meta property="og:url" content="https://github.com/ManUnit/laravel-view-api" /><meta property="og:description" content="Contribute to ManUnit/laravel-view-api development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/02913e054c347ec3a752647716d52543cd97595e4d2a21275e16578737003647/ManUnit/laravel-view-api" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="laravel-view-api/README.md at main · ManUnit/laravel-view-api" /><meta name="twitter:description" content="Contribute to ManUnit/laravel-view-api development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/02913e054c347ec3a752647716d52543cd97595e4d2a21275e16578737003647/ManUnit/laravel-view-api" /><meta property="og:image:alt" content="Contribute to ManUnit/laravel-view-api development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="laravel-view-api/README.md at main · ManUnit/laravel-view-api" /><meta property="og:url" content="https://github.com/ManUnit/laravel-view-api" /><meta property="og:description" content="Contribute to ManUnit/laravel-view-api development by creating an account on GitHub." />
     
 
 
@@ -115,7 +115,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="C698:6EEC:92B7D0:A834BB:61A09245" data-pjax-transient="true"/><meta name="html-safe-nonce" content="5f2ee6278eda7bd98d1a7801ca6fb1b0eeea83f27157f6810a91d402aa7ba9c3" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDNjk4OjZFRUM6OTJCN0QwOkE4MzRCQjo2MUEwOTI0NSIsInZpc2l0b3JfaWQiOiIzMDQzNjA3Nzk2ODk2NTM1MTA5IiwicmVnaW9uX2VkZ2UiOiJzb3V0aGVhc3Rhc2lhIiwicmVnaW9uX3JlbmRlciI6InNvdXRoZWFzdGFzaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="03b99a500d5c6f74b14970fbf406f99e9c2aaf524263f1a30e6ec34fd88d66fa" data-pjax-transient="true"/>
+  <meta name="request-id" content="CD76:065F:8D048A:B2241C:61A23E00" data-pjax-transient="true"/><meta name="html-safe-nonce" content="08b8ed7f24cf37c52f44427e50cf7edb1745cd34ff348e06346681960c9b0b85" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDRDc2OjA2NUY6OEQwNDhBOkIyMjQxQzo2MUEyM0UwMCIsInZpc2l0b3JfaWQiOiIxNTg2Nzc2MTg0NTQxMjk4MTc2IiwicmVnaW9uX2VkZ2UiOiJzb3V0aGVhc3Rhc2lhIiwicmVnaW9uX3JlbmRlciI6InNvdXRoZWFzdGFzaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="795390cc91657adbbf0e5d094e506a105e7cf5da2840eda5863544262cc5b54c" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:431820185" data-pjax-transient>
 
@@ -475,7 +475,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="KXqWMcUJJ8wkw817+zceEuSQFqYKp+XWS6Vh33XA2iMGYRJzQHqfkr4EusBLdk3WjarUwdIU1C9xcTEn4rVgyg==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="j/maL6gFP4be6qe5sPPY3/aa6M+ryAYF7OuJaByhJN5dSVjH8J+7nIzleSuWRtApzaqAV3/7/QzqfIOyO/xsZQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -996,7 +996,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ManUnit/laravel-view-api/blob/d4a8416c4fe34f8b9eebea2dc98b0a2b0e73afec/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ManUnit/laravel-view-api/blob/2b847b131935aa783adfdc75143884723cbda41c/README.md">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -1204,7 +1204,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ManUnit/laravel-view-api/blob/d4a8416c4fe34f8b9eebea2dc98b0a2b0e73afec/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ManUnit/laravel-view-api/blob/2b847b131935aa783adfdc75143884723cbda41c/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1251,19 +1251,19 @@
       <span class="file-info-divider"></span>
       4 lines (4 sloc)
       <span class="file-info-divider"></span>
-    117 Bytes
+    118 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/ManUnit/laravel-view-api/blob/main/README.md?plain=1" data-permalink-href="/ManUnit/laravel-view-api/blob/d4a8416c4fe34f8b9eebea2dc98b0a2b0e73afec/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">
+    <a href="/ManUnit/laravel-view-api/blob/main/README.md?plain=1" data-permalink-href="/ManUnit/laravel-view-api/blob/2b847b131935aa783adfdc75143884723cbda41c/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
   
   
 
-</a>    <a href="/ManUnit/laravel-view-api/blob/main/README.md" data-permalink-href="/ManUnit/laravel-view-api/blob/d4a8416c4fe34f8b9eebea2dc98b0a2b0e73afec/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">
+</a>    <a href="/ManUnit/laravel-view-api/blob/main/README.md" data-permalink-href="/ManUnit/laravel-view-api/blob/2b847b131935aa783adfdc75143884723cbda41c/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
 </svg>
@@ -1352,7 +1352,7 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-tbp-php-libery-to-laravel-api-view-into-json" class="anchor" aria-hidden="true" href="#tbp-php-libery-to-laravel-api-view-into-json"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>TBP PHP libery to Laravel api view into JSON</h1>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-php-composer-libery-to-be-api-view-into-json" class="anchor" aria-hidden="true" href="#php-composer-libery-to-be-api-view-into-json"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>PHP composer libery to be api view into JSON</h1>
 <p dir="auto">run install :
 composer require tbp/viewapi</p>
 </article>
