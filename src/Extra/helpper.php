@@ -14,8 +14,7 @@ function apiview(...$keys)
         // print(env($envappkey,'null') );
         
         if (!isset(apache_request_headers()[$appkey])){  return response()->json( ['message'=>'Error  API reqeuest rejected'] , 400 ) ; } 
-        if (isset(apache_request_headers()[$appkey]) && apache_request_headers()[$appkey] ==  env($envappkey,'null')  ){  return 
-            return response()->json( [ $keys[0] => $keys[1] ] , 200);
+        if (isset(apache_request_headers()[$appkey]) && apache_request_headers()[$appkey] ==  env($envappkey,'null')  ){   return response()->json( [ $keys[0] => $keys[1] ] , 200);
             // if( gettype($keys[0]) == 'string'){  
             //        return response()->json( [ $keys[0] => $keys[1] ] , 200); 
             //    }else{ 
